@@ -1,3 +1,6 @@
+from keep_alive import keep_alive
+keep_alive()
+
 #coded by @DevSeyed in Telegram
 from lib import *
 
